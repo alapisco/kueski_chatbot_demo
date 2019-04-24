@@ -1,0 +1,13 @@
+[
+  {
+    "id": "{UUID_PLACEHOLDER}",
+    "data": [
+      {
+        "text": "{QUESTION_PLACEHOLDER}",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
